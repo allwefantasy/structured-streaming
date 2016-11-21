@@ -1,0 +1,7 @@
+/.idea
+/structured-streaming.iml
+/target
+/core/target
+/stub/target
+/core/core.iml
+/stub/stub.iml

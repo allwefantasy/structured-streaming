@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>structured-streaming</artifactId>
+        <groupId>streamingpro.king</groupId>
+        <version>0.4.6-SNAPSHOT-online-2.0.2</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>structured-streaming-stub</artifactId>
+    <packaging>jar</packaging>
+
+    <name>structured-streaming-stub</name>
+    <url>http://maven.apache.org</url>
+
+</project>
