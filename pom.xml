@@ -5,7 +5,7 @@
     <groupId>streamingpro.king</groupId>
     <artifactId>structured-streaming</artifactId>
     <packaging>pom</packaging>
-    <version>0.4.6-SNAPSHOT-online-2.0.2</version>
+    <version>0.4.7-SNAPSHOT-online-2.0.2</version>
     <modules>
         <module>core</module>
         <module>stub</module>
